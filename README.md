@@ -11,6 +11,7 @@ This project involves creating a Java console calculator. The calculator support
 - `Calculator.java`: The main Java file containing all calculation methods and logic.
 
 ## Screenshots
+ ** output**
 <img width="1118" height="855" alt="Screenshot 2025-08-04 131806" src="https://github.com/user-attachments/assets/4d05b16f-27e6-495b-b0e6-5c544f541450" />
 
 
