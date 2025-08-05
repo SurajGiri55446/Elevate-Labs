@@ -24,8 +24,3 @@ This project involves creating a Java console calculator. The calculator support
 6. Ran the code with `java Calculator` and tested it.
 7. Uploaded the code to the GitHub repository.
 
-## Results
-The code works successfully and allows users to perform all basic calculations.
-
-## Submission Information
-This repository was submitted on August 04, 2025, before 10:00 PM IST.
